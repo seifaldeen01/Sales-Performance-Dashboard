@@ -16,7 +16,7 @@ An interactive Sales Performance Dashboard developed using Microsoft Excel to an
 
 ## Dashboard
 
-![Sales Performance Dashboard](dashboard.png)
+![Sales Performance Dashboard](./dashboard.png)
 
 ## Project Objectives
 
