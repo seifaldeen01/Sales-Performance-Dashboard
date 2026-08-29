@@ -16,7 +16,7 @@ An interactive Sales Performance Dashboard developed using Microsoft Excel to an
 
 ## Dashboard
 
-![Sales Performance Dashboard](./dashboard.png)
+![Sales Performance Dashboard](dashboard.png)
 
 ## Project Objectives
 
@@ -26,11 +26,8 @@ An interactive Sales Performance Dashboard developed using Microsoft Excel to an
 * Use interactive slicers to explore the data
 * Present key findings through an easy-to-understand dashboard
 
-## Key Insights
-
-The dashboard provides an interactive view of sales performance, allowing users to identify trends, compare different segments, and monitor key performance indicators.
-
 ## Project Files
 
-* `Sales Performance Dashboard.xlsx` — Excel dashboard and analysis
-* `dashboard.png` — Dashboard preview
+* Sales Performance Dashboard.xlsx — Excel dashboard and analysis
+* dashboard.png — Dashboard preview
+****
